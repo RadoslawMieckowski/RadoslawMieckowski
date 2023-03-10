@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadoslawMieckowski. Graduated from Applied Informatics at UEK. 
 - 👀 I’m interested in programming, new, agile technologies and finances. 
-- 🌱 I’m currently learning Java, Spring technologies and Angular.
+- 🌱 I’m currently learning Java, Spring technologies and microservices.
 - 💞️ I’m looking to collaborate on business projects, especially including finances (broadly speaking), or stock market. 
 - 📫 How to reach me: via my email: rmieckowski@wp.pl
 
